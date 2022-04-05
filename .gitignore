@@ -1,0 +1,25 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+*.sqlite
+*.db-shm
+*.db
+*.db-wal
+*.opendb
+/.vs/ProjectSettings.json
+*.ipch
+*.suo
+/cpp스터디 5주차/.vs/cpp스터디 5주차/project-colors.json
+*.tlog
+*.ilk
+*.recipe
+*.log
+*.obj
+*.idb
+*.pdb
+*.vcxproj
+*.user
+*.filters
+*.exe
+*.sln
